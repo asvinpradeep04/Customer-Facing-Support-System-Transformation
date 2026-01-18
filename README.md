@@ -48,6 +48,7 @@ I am not affiliated with or employed by Walmart.
 ---
 
 ##  Repository Structure
+```text
 - Root: Project overview, logs, and control documents  
 - 01_Initiation: Business case, charter, stakeholders  
 - 02_Planning: Scope, schedule, cost, risk, quality  
